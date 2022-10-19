@@ -47,7 +47,7 @@ export const Banner = () => {
                     <Col xs={12} md={6} xl={7}>
                         <span className="tagline">Welcome to my portfolio</span>
                         <h1>{'Hi, I am Shannon Torcato '}<span className="wrap">{text}</span> </h1>
-                        <p></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat esse assumenda laudantium architecto dolorum temporibus, quasi est sint, repudiandae dicta veritatis! Aliquam odio non neque aliquid harum doloribus adipisci qui.</p>
                         <button onClick={()=>console.log("Hello")}>Let's Connect<ArrowRightCircle size={25}/></button>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
